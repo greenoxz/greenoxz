@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello! I'm Pisit (greenoxz)
 
-<!--
-**greenoxz/greenoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate maker and learner from Thailand. 🇹🇭
 
-Here are some ideas to get you started:
+### About Me
+I don't consider myself a professional developer, but I have a solid grasp of the basics. My real passion lies in using AI to create custom tools that solve everyday problems. I love the process of building, experimenting, and bridging the gap between my ideas and functional solutions. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Toolkit
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![3D Printing](https://img.shields.io/badge/3D_Printing-orange?logo=bambulab&logoColor=white)
+![AI-Powered](https://img.shields.io/badge/AI_Powered-purple?logo=openai&logoColor=white)
+
+### 📌 Current Focus
+* Building and testing hardware-related tools.
+* Experimenting with 3D models and functional prints.
+* Improving my workflow through AI-assisted coding.
+
+### 🌐 Let's Connect
+* Website: [link.pisitz.com](https://link.pisitz.com)
+* GitHub: [github.com/greenoxz](https://github.com/greenoxz)
+
+---
+*Last updated: July 2026*
