@@ -19,6 +19,8 @@ I don't consider myself a professional developer, but I have a solid grasp of th
 ### 🌐 Let's Connect
 * Website: [link.pisitz.com](https://link.pisitz.com)
 * GitHub: [github.com/greenoxz](https://github.com/greenoxz)
+* 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6WMMKB)
 
 ---
 *Last updated: July 2026*
