@@ -5,6 +5,23 @@ Just a 9-to-5 guy building random things & blogging at whatthebug.media 🛠️
 ### About Me
 I'm an everyday worker and passionate maker from Thailand. 🇹🇭 While I don't consider myself a professional developer, I love using AI to create custom tools, experiment with side projects, and solve everyday problems.
 
+       .-'''''-.
+     .'  _   _  '.
+    /   (o) (o)   \
+   |      (_)      |   ☕ [ Coffee & Code ]
+   |   \_______/   |
+    \             /    "Just a 9-to-5 guy
+     '.         .'      building random things"
+       '-------'
+      /|   |   |\
+     / |   |   | \
+    (  |===|===|  )
+     \ |   |   | /       .----------------.
+     / |_______| \       | > greenoxz     |
+    /             \      | > npm run dev  |
+    /  |   💻  |   \     '----------------'
+   (___|_______|___)
+
 I also write about tech, gadgets, and my experiments over at [whatthebug.media](https://whatthebug.media).
 
 ### 🛠 My Toolkit
