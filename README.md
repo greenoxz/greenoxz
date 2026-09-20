@@ -1,26 +1,29 @@
-# 👋 Hello! I'm Pisit (greenoxz)
+## 👋 Hello! I'm Pisit (greenoxz)
 
-I’m a passionate maker and learner from Thailand. 🇹🇭
+Just a 9-to-5 guy building random things & blogging at whatthebug.media 🛠️
 
 ### About Me
-I don't consider myself a professional developer, but I have a solid grasp of the basics. My real passion lies in using AI to create custom tools that solve everyday problems. I love the process of building, experimenting, and bridging the gap between my ideas and functional solutions. 🚀
+I'm an everyday worker and passionate maker from Thailand. 🇹🇭 While I don't consider myself a professional developer, I love using AI to create custom tools, experiment with side projects, and solve everyday problems.
+
+I also write about tech, gadgets, and my experiments over at [whatthebug.media](https://whatthebug.media).
 
 ### 🛠 My Toolkit
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![3D Printing](https://img.shields.io/badge/3D_Printing-orange?logo=bambulab&logoColor=white)
-![AI-Powered](https://img.shields.io/badge/AI_Powered-purple?logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat-square)
+![AI-Powered](https://img.shields.io/badge/AI--Powered-8A2BE2?style=flat-square)
 
 ### 📌 Current Focus
-* Building and testing hardware-related tools.
-* Experimenting with 3D models and functional prints.
-* Improving my workflow through AI-assisted coding.
+- Building and testing hardware & desktop tools (macOS / Web).
+- Experimenting with 3D models and functional prints.
+- Sharing tech insights & workflow experiments on my blog.
 
 ### 🌐 Let's Connect
-* Website: [link.pisitz.com](https://link.pisitz.com)
-* GitHub: [github.com/greenoxz](https://github.com/greenoxz)
+- Blog: [whatthebug.media](https://whatthebug.media)
+- Links: [link.pisitz.com](https://link.pisitz.com)
+- GitHub: [github.com/greenoxz](https://github.com/greenoxz)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6WMMKB)
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com)
 
----
-*Last updated: July 2026*
+*Last updated: September 2026*
